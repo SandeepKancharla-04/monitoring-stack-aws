@@ -1,7 +1,7 @@
 ### *Project 4: monitoring-stack-aws*
 
 *Step 1: Create Folder*
- monitoring-stack-aws
+: monitoring-stack-aws
 
 *Step 2: Add ⁠ README.md ⁠*
 ```markdown
